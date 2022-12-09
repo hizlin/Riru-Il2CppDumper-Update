@@ -1,0 +1,1 @@
+git clone -b riru https://github.com/Perfare/Zygisk-Il2CppDumper.git
