@@ -5,8 +5,8 @@
 #ifndef RIRU_IL2CPPDUMPER_GAME_H
 #define RIRU_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.proximabeta.nikke"
-#define UnityVersion 2021.2.0f1
+#define GamePackageName "com.komoe.kmumamusumegp"
+#define UnityVersion 2019.4.15f1
 
 // 2018.3.0f2 and up enable it
 #define VersionAbove2018dot3

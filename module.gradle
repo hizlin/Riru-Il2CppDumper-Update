@@ -20,11 +20,11 @@ ext {
        Note, the older version of the template uses '-' instead of '_', if your are upgrading from
        the older version, please pay attention.
     */
-    magiskModuleId = "riru_il2cppdumper_nikke"
+    magiskModuleId = "riru_il2cppdumper_uma_tw"
 
-    moduleName = "Il2CppDumper-Nikke"
+    moduleName = "Il2CppDumper-Uma-Tw"
     moduleAuthor = "Hiz"
-    moduleDescription = "Riru-Il2CppDumper with Nikke."
+    moduleDescription = "Riru-Il2CppDumper with Uma-Tw."
     moduleVersion = "v26.0.0"
     moduleVersionCode = 26
 }
